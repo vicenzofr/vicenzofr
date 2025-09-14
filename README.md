@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vicenzo</h1>
+<h1 align="center">👋Hi, I'm Vicenzo</h1>
 <h3 align="center">A developer passionate about frontend and technology from Brazil</h3>
 
 # 💫 About Me:
