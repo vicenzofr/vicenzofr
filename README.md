@@ -2,6 +2,13 @@
 <h3 align="center">A developer passionate about front-end and technology from Brazil</h3>
 
 # 💫 About Me:
+<p>
+  I’m a Computer Engineering student at UCL (Manguinhos Campus), with a technical background in Digital Game Programming and a growing passion for technology, development, and innovation.
+  My journey started in the world of game development, but soon expanded into web and mobile development, as well as system integration. I have professional experience at Trinity Engenharia, where I worked with budgeting, supplier negotiation, and financial project management — which helped me develop strong skills in organization, communication, and problem-solving
+  On the technical side, I’ve worked with languages like JavaScript and Python, and tools such as HTML, CSS, Unity, Photoshop, and API integration. Lately, I’ve been diving deeper into modern development using React, leveraging Vite for project optimization and Tailwind CSS for fast, responsive styling.
+  I’m always eager to learn and explore new technologies. I enjoy turning ideas into practical and creative solutions — whether it’s a website, app, or game. More than just writing code, I like to understand real-world problems and think about how technology can improve people’s lives — that’s what drives me.
+</p>
+
 🔭 I’m currently working on [Mercadinho_Ze](https://github.com/vicenzofr/Mercadinho_Ze)
 <br> 
 🌱 I’m currently learning **React, Tailwind, Sqlite**
