@@ -9,9 +9,22 @@
   I’m always eager to learn and explore new technologies. I enjoy turning ideas into practical and creative solutions — whether it’s a website, app, or game. More than just writing code, I like to understand real-world problems and think about how technology can improve people’s lives — that’s what drives me.
 </p>
 
-<a href="http://vicenzofr.com" target="blank">
-  <img src="https://img.shields.io/badge/💻-Meu%20Website-2ea44f?style=for-the-badge" />
+## 🚀 Portfólio
+
+<a href="http://vicenzo.com" target="_blank">
+  <img src="https://img.shields.io/badge/💻-Visitar%20Portfólio-2ea44f?style=for-the-badge" />
 </a>
+
+
+## 📄 Currículo
+
+<a href="./CvVicenzo.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Visualizar%20CV-blue?style=for-the-badge&logo=readthedocs" />
+</a>
+<a href="./CvVicenzo.pdf" download>
+  <img src="https://img.shields.io/badge/-Download%20CV-green?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
 
 ## 🔭 Current Project
 
