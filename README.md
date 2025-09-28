@@ -21,10 +21,6 @@
 <a href="./CV Vicenzo Fernandes.pdf" target="_blank">
   <img src="https://img.shields.io/badge/-Visualizar%20CV-blue?style=for-the-badge&logo=readthedocs" />
 </a>
-<a href="./CV Vicenzo Fernandes.pdf" download>
-  <img src="https://img.shields.io/badge/-Download%20CV-green?style=for-the-badge&logo=adobeacrobatreader" />
-</a>
-
 
 ## 🔭 Current Project
 
