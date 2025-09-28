@@ -9,9 +9,23 @@
   I’m always eager to learn and explore new technologies. I enjoy turning ideas into practical and creative solutions — whether it’s a website, app, or game. More than just writing code, I like to understand real-world problems and think about how technology can improve people’s lives — that’s what drives me.
 </p>
 
-🔭 I’m currently working on [Mercadinho_Ze](https://github.com/vicenzofr/Mercadinho_Ze)
-<br> 
-🌱 I’m currently learning **React, Tailwind, Sqlite**
+<a href="http://vicenzo.com" target="_blank">
+  <img src="https://img.shields.io/badge/💻-Meu%20Website-2ea44f?style=for-the-badge" />
+</a>
+
+## 🔭 Current Project
+
+<a href="https://github.com/vicenzofr/Mercadinho_Ze" target="_blank">
+  <img src="https://img.shields.io/badge/Mercadinho__Ze-blue?style=for-the-badge&logo=github" />
+</a>
+
+🌱 Using:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
 
 </br>
 
